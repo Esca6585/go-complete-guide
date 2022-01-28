@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello world!")
+
+	var firtRune rune = 'b'
+	fmt.Println(firtRune)
 }
