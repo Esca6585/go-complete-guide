@@ -1,1 +1,1 @@
-﻿# go-complete-guide
+Go or Golang is statically typed, compiled, open source programming language designed by Google
