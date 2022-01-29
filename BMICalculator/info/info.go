@@ -1,6 +1,6 @@
 package info
 
-const mainTitle = "BMI Calculator"
-const seperator = "------------------"
-const weightPromt = "Please enter your weight (kg): "
-const heightPromt = "Please enter your height (m): "
+const MainTitle = "BMI Calculator"
+const Seperator = "------------------"
+const WeightPromt = "Please enter your weight (kg): "
+const HeightPromt = "Please enter your height (m): "

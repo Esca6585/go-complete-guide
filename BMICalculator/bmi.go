@@ -11,7 +11,7 @@ import (
 func main() {
 
 	// Output information
-	fmt.Println(info.mainTitle)
+	fmt.Println(info.MainTitle)
 	fmt.Println(info.Seperator)
 
 	// Prompt for user input (weight + height)
