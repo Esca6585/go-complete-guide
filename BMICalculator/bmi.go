@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/babamyrat1003/go-complete-guide/info"
+	"github.com/babamyrat1003/go-complete-guide/BMICalculator/info"
 )
 
 func main() {
