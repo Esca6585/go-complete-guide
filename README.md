@@ -1,1 +1,2 @@
-Go or Golang is statically typed, compiled, open source programming language designed by Google
+### Description
+* Getting Started With Golang is a course that teaches all the key principles of using the Go programming language, which is one of the most sought after and popular languages.
